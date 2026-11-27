@@ -1,5 +1,6 @@
 node_modules/
 dist/
+.vercel/
 *.pptx
 *.pdf
 .DS_Store
